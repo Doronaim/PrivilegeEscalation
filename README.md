@@ -1,5 +1,3 @@
-# PrivilegeEscalation
-Demos' commands
 
 ## PRIVILEGE ESCALATION in windows
 
