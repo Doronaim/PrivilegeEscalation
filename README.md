@@ -1,5 +1,5 @@
 
-## PRIVILEGE ESCALATION in windows
+## PRIVILEGE ESCALATION in Windows
 
 #### CyberArk Impact 2018
 
